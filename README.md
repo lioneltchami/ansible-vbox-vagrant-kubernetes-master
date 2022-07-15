@@ -3,7 +3,7 @@
 
 Tutorial with full source code explaining **how to create a Kubernetes cluster with Ansible and Vagrant** for local development.
 
-See https://www.itwonderlab.com/en/ansible-kubernetes-vagrant-tutorial/
+See 
 
 * 22 Dec 2019: Add information about using a Private Docker Registry as suggested by Brian Quandt.
 * 4 Nov 2019: Install and publish Kubernetes Dashboard under vagrant, with help from Alex Alongi. Add prerequisites section as requested
@@ -24,4 +24,4 @@ See https://www.itwonderlab.com/en/ansible-kubernetes-vagrant-tutorial/
 
 Creación de un **clúster Kubernetes con múltiples nodos usando Vagrant, Ansible y Virtualbox**. Especialmente indicado para entornos de desarrollo local realistas.
 
-See https://www.itwonderlab.com/es/cluster-kubernetes-vagrant-ansible/
+See 
