@@ -19,9 +19,3 @@ See
 
 
 ------------------
-
-## Creación de un Clúster de Kubernetes 1.22 Containerd e Istio usando Vagrant y Ansible (1 maestro N nodos)
-
-Creación de un **clúster Kubernetes con múltiples nodos usando Vagrant, Ansible y Virtualbox**. Especialmente indicado para entornos de desarrollo local realistas.
-
-See 
